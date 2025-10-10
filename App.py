@@ -17,7 +17,6 @@ import io, random
 from streamlit_tags import st_tags
 from PIL import Image
 import pymysql
-from Courses import ds_course, web_course, android_course, ios_course, uiux_course, resume_videos, interview_videos
 import pafy
 import plotly.express as px
 import youtube_dl
@@ -433,3 +432,4 @@ def run():
 
 
 run()
+
